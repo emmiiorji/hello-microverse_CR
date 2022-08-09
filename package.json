@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/emmiiorji/hello-microverse_CR/issues"
   },
-  "homepage": "https://github.com/emmiiorji/hello-microverse_CR#readme"
+  "homepage": "https://github.com/emmiiorji/hello-microverse_CR#readme",
+  "devDependencies": {
+    "hint": "^7.1.1"
+  }
 }
